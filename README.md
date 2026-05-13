@@ -116,7 +116,7 @@ using namespace std;
 
 int main()
 {
-    clsString String1("Ahmed Yaser");
+    clsString String1("Osman gafer");
 
     cout << "String1 = " << String1.Value << endl;
 
